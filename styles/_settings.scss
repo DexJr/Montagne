@@ -1,0 +1,10 @@
+@mixin centerChild{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+body{
+  background: url(./img/bg.jpg) center/cover;
+  height: 100vh;
+}
