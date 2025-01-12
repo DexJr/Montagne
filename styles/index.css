@@ -1,4 +1,8 @@
 body {
   background: url(./img/bg.jpg) center/cover;
   height: 100vh;
+}
+
+h3 {
+  text-transform: uppercase;
 }/*# sourceMappingURL=index.css.map */
